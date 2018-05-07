@@ -10,3 +10,6 @@ def prime?(number)
 end
 
 puts prime?(3)
+puts prime?(4)
+puts prime?(5)
+puts prime?(6)
