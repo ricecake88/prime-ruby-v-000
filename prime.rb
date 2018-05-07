@@ -7,9 +7,3 @@ def prime?(number)
   end
   return true
 end
-
-puts prime?(3)
-puts prime?(4)
-puts prime?(5)
-puts prime?(6)
-puts prime?(100)
