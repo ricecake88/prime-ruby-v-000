@@ -7,3 +7,5 @@ def prime?(number)
   end
   return true
 end
+
+puts prime?(3)
